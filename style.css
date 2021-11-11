@@ -6,8 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #fffb00f8, #1eff00, #1882c1, #f00808, #fd7200);
-background-size:cover;
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
 }
 
 .header
@@ -21,7 +20,7 @@ background-size:cover;
 
 .login_div
 {
-	background: rgba(233, 108, 108, 0.8);float: none;border-radius: 15px;
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
 }
 
 .logo
